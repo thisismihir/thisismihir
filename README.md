@@ -54,3 +54,4 @@ I'm working for 5+ years solving business problems using complex machine learnin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=thisismihir&show_icons=true&hide_border=true)
+![My Visitor Count](https://profile-counter.glitch.me/thisismihir/count.svg)
